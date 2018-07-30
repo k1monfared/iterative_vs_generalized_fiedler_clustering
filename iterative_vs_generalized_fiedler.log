@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.7.12)  30 JUL 2018 13:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.7.12)  30 JUL 2018 14:18
 entering extended mode
 **./iterative_vs_generalized_fiedler.tex
 (iterative_vs_generalized_fiedler.tex
@@ -303,13 +303,13 @@ ples.png (PNG copy)>] [5 <./four_faraway_clusters_modularity.png (PNG copy)> <.
 /four_faraway_clusters_ari.png (PNG copy)>]
 (iterative_vs_generalized_fiedler.aux) ) 
 Here is how much of TeX's memory you used:
- 2676 strings out of 493329
- 35617 string characters out of 3139018
- 99056 words of memory out of 3000000
- 6019 multiletter control sequences out of 15000+200000
+ 2678 strings out of 493329
+ 35627 string characters out of 3139018
+ 99068 words of memory out of 3000000
+ 6021 multiletter control sequences out of 15000+200000
  9349 words of font info for 37 fonts, out of 3000000 for 9000
  1302 hyphenation exceptions out of 8191
- 40i,7n,31p,555b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,7n,32p,555b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
@@ -317,7 +317,7 @@ ts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 r10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on iterative_vs_generalized_fiedler.pdf (5 pages, 413693 bytes).
+Output written on iterative_vs_generalized_fiedler.pdf (5 pages, 418343 bytes).
 
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
